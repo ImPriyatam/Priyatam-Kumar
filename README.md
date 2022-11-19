@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Priyatam-Kumar
+- 👋 Hi, I’m @priyatam-Kumar
 - 👀 I’m interested in Data visualization, data analysis and photography.
 - 🌱 I’m currently learning photography, data analysis.
 - 💞️ I’m looking to collaborate on ...

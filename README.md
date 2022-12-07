@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @priyatam-Kumar
+- 👋 Hi, I’m @priyatam-Kumar, M.Sc in Astronomy student at IIT Indore.
 - 👀 I’m interested in Data visualization, data analysis and photography.
 - 🌱 I’m currently learning photography, data analysis.
 - 💞️ I’m looking to collaborate on ...
